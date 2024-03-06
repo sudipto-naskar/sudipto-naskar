@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 👨‍💻 All of my projects are available at [https://sudiptonaskar.netlify.app/](https://sudiptonaskar.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sudiptonaskar.netlify.app/](https://imsudipto.netlify.app/)
 
 - 💬 Ask me about **HTML, CSS, JS, NODEJS**
 
