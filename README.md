@@ -1,29 +1,75 @@
-<h1 align="center">Hi 👋, I'm sudipto naskar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"
+<p align='center'> <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=500&size=35&pause=1000&color=7B68EE&center=true&vCenter=true&width=515&height=65&lines=Hola!+Welcome+to+my+profile+%E2%9C%8C%EF%B8%8F;Nice+to+meet+you+%F0%9F%98%8A;Have+a+nice+day+%F0%9F%8C%9E" alt='' /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipto-naskar&label=Profile%20views&color=0e75b6&style=flat" alt="sudipto-naskar" /> </p>
+<!-- <img src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/Banner.gif" alt='' /> -->
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<!-- # <p align='center'> < Hello World, I am <img src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/pro.png" height='38' width='215' /> <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt='' height='50' width='50'/> /> -->
 
-- 🌱 I’m currently learning **NextJs**
+<!-- <img align='right' src="https://media3.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" alt='' height="300" width="300"></img> -->
+<img align='right' src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/aboutGif.gif" alt='' height='300' width='300' />
 
-- 👨‍💻 All of my projects are available at [https://imsudipto.netlify.app/]
+<p> I am a software engineer pursuing bachelors in computer science and enginnering. I am passionate about solving practical business problems and always eager to take up new challenges. I love to work with latest technologies and expand my skillset. My focus is on building scalable products and contribute to the growth of businesses. Hi ! I Am Sudipto Naskar, Frontend Developer with high level of experience in web designing and development, producing the Quality work </p>
 
-- 💬 Ask me about **HTML, CSS, JS, NODEJS**
+- <img src="https://media4.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif" alt="" height="25" width="21" /> I’m currently working on **<code>Cross-Platform Mobile Apps</code> <code>DSA</code>**
+- <img src="https://media4.giphy.com/media/R92ZGUtkGMMUApP8mY/giphy.gif" alt="" height="25" width="25" /> I'm interested about **<code>Backend Development</code>&nbsp;<code>Competitive Programming</code>**
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt="" height="25" width="25" /> I’m looking to collaborate on **<code>Freelance Projects</code>**
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="" height="26" width="29" /> Feel free to reach me at <code>**[Gmail](mailto:prostyles.096@gmail.com)** | **[Linkedin](https://linkedin.com/in/pradipto-mondal)**</code>
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="" height="25" width="25" /> Know more about me on my **<code>[website](impradipto.web.app)</code>**
 
-- 📫 How to reach me **sudiptonaskar.123@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt='' width='30' height='30' /> Connect with me:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prostyles.096@gmail.com) &nbsp;
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradipto-m/) &nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradipto-mondal/) &nbsp;
+[![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://impradipto.web.app) &nbsp;
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Prostyles/) &nbsp;
+[![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://codechef.com/users/procodes_96) &nbsp;
+[![Geeksforgeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/pradipto96) &nbsp;
+<!-- [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://hackerearth.com/@Prostyles_96) -->
+<!-- [![Website](https://img.shields.io/static/v1?label=Website&message=.&style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=blue&color=blue)](https://impradipto.web.app) -->
+
+
+## <img src="https://media1.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" alt='' height="40" width="70" /> My Tech Tools:
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sudipto-naskar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sudipto-naskar/" height="30" width="40" /></a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
+<a href="https://developer.android.com/docs" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969010.png" alt="android" width="45" height="45"/> </a> &nbsp;
+<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> &nbsp;
+<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> &nbsp;
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp;
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp;
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> &nbsp;
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> &nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudipto-naskar&show_icons=true&locale=en&layout=compact" alt="sudipto-naskar" /></p>
+## <img src="https://media4.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" alt='' height="40" width="40" /> Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudipto-naskar&show_icons=true&locale=en" alt="sudipto-naskar" /></p>
+<img align='right' src="https://media2.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width='200' height='290'></img>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradipto-m&count_private=true&show_icons=true&theme=gotham&border_radius=8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pradipto-m&theme=gotham&border_radius=8)
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradipto-m&theme=tokyonight" alt="Pradipto" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradipto-m&layout=compact&theme=gotham" alt="Pradipto" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudipto-naskar&" alt="sudipto-naskar" /></p>
+
+<!-- ![Lines of code](https://img.shields.io/badge/Written-5M%20lines%20of%20code-blue)
+![Profile views](https://gpvc.arturio.dev/Pradipto-m)
+![Profile views](https://komarev.com/ghpvc/?username=Pradipto-m&label=Profile%20views&color=0e75b6&style=flat)
+![Profile visitors](https://visitor-badge.glitch.me/badge?page_id=Pradipto-m.Pradipto-m) -->
+
+<br/>
+<br/>
+
+<img align='right' src="https://media2.giphy.com/media/7DPisN3JAKJhEyDHIW/giphy.gif" width="200" height="200"></img>
+<br/>
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thanks for visiting my profile <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Smilies/Heart%20Exclamation.png" alt='' width='38' height='38' />
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please <img src="https://media2.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" alt='' width='35' height='35' /> Some Repos &nbsp; <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right%20Medium-Light%20Skin%20Tone.png" alt='' width='36' height='36' /><img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Left%20Medium-Light%20Skin%20Tone.png" alt='' width='36' height='36' />
+
+<p align='center'><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/></p>
