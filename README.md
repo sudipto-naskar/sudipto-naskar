@@ -6,21 +6,20 @@
 
 <!-- <img align='right' src="https://media3.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" alt='' height="300" width="300"></img> -->
 <img align='right' src="https://github.com/Pradipto-m/Pradipto-m/blob/master/Github_Assets/aboutGif.gif" alt='' height='300' width='300' />
+<p> Hi ! I Am Sudipto, I am a Mern Stack Developer and I done my bachelors in computer application. I am a Frontend Developer with high level of experience in web designing and development, producing the Quality work. I love to work with latest technologies and expand my skillset. My focus is on building scalable products and contribute to the growth of businesses.</p>
 
-<p> I am a software engineer pursuing bachelors in computer science and enginnering. I am passionate about solving practical business problems and always eager to take up new challenges. I love to work with latest technologies and expand my skillset. My focus is on building scalable products and contribute to the growth of businesses. Hi ! I Am Sudipto Naskar, Frontend Developer with high level of experience in web designing and development, producing the Quality work </p>
-
-- <img src="https://media4.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif" alt="" height="25" width="21" /> I’m currently working on **<code>Cross-Platform Mobile Apps</code> <code>DSA</code>**
-- <img src="https://media4.giphy.com/media/R92ZGUtkGMMUApP8mY/giphy.gif" alt="" height="25" width="25" /> I'm interested about **<code>Backend Development</code>&nbsp;<code>Competitive Programming</code>**
+- <img src="https://media4.giphy.com/media/XZlSZ7VqS6IfZQsE2c/giphy.gif" alt="" height="25" width="21" /> I’m currently working on **<code>Web Applications</code>
+- <img src="https://media4.giphy.com/media/R92ZGUtkGMMUApP8mY/giphy.gif" alt="" height="25" width="25" /> I'm interested about **<code>Backend Development</code>
 - <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt="" height="25" width="25" /> I’m looking to collaborate on **<code>Freelance Projects</code>**
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="" height="26" width="29" /> Feel free to reach me at <code>**[Gmail](mailto:prostyles.096@gmail.com)** | **[Linkedin](https://linkedin.com/in/pradipto-mondal)**</code>
-- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="" height="25" width="25" /> Know more about me on my **<code>[website](impradipto.web.app)</code>**
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/E-Mail.png" alt="" height="26" width="29" /> Feel free to reach me at <code>**[Gmail](mailto:sudiptonaskar123@gmail.com)** | **[Linkedin](https://www.linkedin.com/in/sudipto-naskar/)**</code>
+- <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Objects/Laptop.png" alt="" height="25" width="25" /> Know more about me on my **<code>[website](https://imsudipto.netlify.app/)</code>**
 
 
 ## <img src="https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/blob/master/Emojis/Hand%20gestures/Handshake.png" alt='' width='30' height='30' /> Connect with me:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prostyles.096@gmail.com) &nbsp;
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pradipto-m/) &nbsp;
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pradipto-mondal/) &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudiptonaskar123@gmail.com) &nbsp;
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudipto-naskar) &nbsp;
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudipto-naskar/) &nbsp;
 [![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://imsudipto.netlify.app/) &nbsp;
 [![Website](https://img.shields.io/static/v1?label=Website&message=.&style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=blue&color=blue)](https://imsudipto.netlify.app/)
 
@@ -32,14 +31,17 @@
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &nbsp;
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp;
-<a href="https://developer.android.com/docs" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969010.png" alt="android" width="45" height="45"/> </a> &nbsp;
+<!-- <a href="https://developer.android.com/docs" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5969/5969010.png" alt="android" width="45" height="45"/> </a> &nbsp;
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> &nbsp;
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> &nbsp;
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp;
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> &nbsp; -->
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &nbsp;
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> &nbsp;
+<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> &nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> &nbsp;
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> &nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a> &nbsp;
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs" width="50" height="50"/> </a> &nbsp;
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> &nbsp;
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp;
 </p>
@@ -49,10 +51,10 @@
 ## <img src="https://media4.giphy.com/media/VEzBzSyEOKtXGuPIQw/giphy.gif" alt='' height="40" width="40" /> Github Stats
 
 <img align='right' src="https://media2.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" width='200' height='290'></img>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradipto-m&count_private=true&show_icons=true&theme=gotham&border_radius=8)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pradipto-m&theme=gotham&border_radius=8)
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pradipto-m&theme=tokyonight" alt="Pradipto" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradipto-m&layout=compact&theme=gotham" alt="Pradipto" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sudipto-naskar&count_private=true&show_icons=true&theme=gotham&border_radius=8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudipto-naskar&theme=gotham&border_radius=8)
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudipto-naskar&theme=tokyonight" alt="Sudipto" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipto-naskar&layout=compact&theme=gotham" alt="Sudipto" />
 
 
 <!-- ![Lines of code](https://img.shields.io/badge/Written-5M%20lines%20of%20code-blue)
